@@ -1,0 +1,6 @@
+[submodule "cam"]
+	path = cam
+	url = https://github.com/YASAS1992/cam
+[submodule "lk"]
+	path = lk
+	url = https://github.com/YASAS1992/lk
